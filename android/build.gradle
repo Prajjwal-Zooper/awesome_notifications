@@ -44,7 +44,7 @@ android {
 
 dependencies {
 //    implementation project(':awn_core')
-    implementation 'com.github.Prajjwal-Zooper:AndroidAwnCore:Tag'
+    implementation 'com.github.Prajjwal-Zooper:AndroidAwnCore:master-SNAPSHOT'
 
     implementation 'com.google.guava:guava:32.1.3-android'
 
